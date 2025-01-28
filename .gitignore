@@ -4,6 +4,9 @@ node_modules/
 # Logs
 *.log
 
+# env
+.env
+
 # Build output
 dist/
 
@@ -13,3 +16,4 @@ pnpm-lock.yaml
 
 # Temporary files
 .DS_Store
+cle

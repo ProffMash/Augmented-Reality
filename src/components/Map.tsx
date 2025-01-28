@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react';
 import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 
-mapboxgl.accessToken = '';
+mapboxgl.accessToken = 'meta.env.vite.Access_Token';
 
 interface MapProps {
   center: [number, number];
