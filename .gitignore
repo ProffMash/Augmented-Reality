@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Build output
+dist/
+
+# Package lock files
+yarn.lock
+pnpm-lock.yaml
+
+# Temporary files
+.DS_Store
